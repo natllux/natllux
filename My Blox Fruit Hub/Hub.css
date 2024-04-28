@@ -1,0 +1,36 @@
+body {
+    background-color:rgb(0, 0, 0) ;
+}
+
+h1{
+    color:salmon;
+    text-align: center;
+}
+
+h2 {
+    color:rgb(128, 128, 128)
+}
+
+h3{
+    color: aqua;
+}
+p {
+    color:rgb(255, 255, 255)
+}
+
+.titre-vert {
+    color:rgb(0, 255, 255);
+
+}
+
+li,ol,a{
+    color:salmon
+}
+
+
+section {
+    display:flex;
+    flex-direction: column;
+}
+
+
