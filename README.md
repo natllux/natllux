@@ -1,7 +1,6 @@
-Hi, i'm Natllux !
-I'm kinda new to development since i started on February 2023 with Visual Studio Code.
-I do games projects on Godot and Roblox Studio; I also do Python projects with VSCode.
-<!---
-natllux/natllux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Natllux, a young developer...
+
+Started in 2023, Natllux's first projects were little web pages on Google Chrome. Since then, he has developped a passion for computer science.
+He then done basic Python Projects like a calculator, and many others...
+
+In 2024, he started to try making games using Godot Engine. Which was a sucess since ! He started by doing 2D games. Today, he started 3D game development.
