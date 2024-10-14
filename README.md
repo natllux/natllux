@@ -1,6 +1,7 @@
-Natllux, a young developer...
+Natllux, Mine'Corp's Co-Founder;
 
-Started in 2023, Natllux's first projects were little web pages on Google Chrome. Since then, he has developped a passion for computer science.
-He then done basic Python Projects like a calculator, and many others...
+Since 2022, Natllux started coding little web pages for fun. It was a pretty good start for him.
 
-In 2024, he started to try making games using Godot Engine. Which was a sucess since ! He started by doing 2D games. Today, he started 3D game development.
+In 2023, Natllux started doing some Python basic projects like a calculator.
+
+In the beginning of 2024
