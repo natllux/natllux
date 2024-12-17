@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+h2 {
+    color:cyan;
+    text-align:center
+}
+
+
+.Fruit {
+    color: rgb(208, 255, 0);
+}
+
+section {
+    display:flex;
+}
+
+p {
+    color: beige;
+}
+
+img {
+    width: 200px;
+}
+
+h3 {
+    color: floralwhite;
+}
+
+ section article {
+    display: flex;
+    flex-direction: row;
+} 
+
+section a {
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    border: 5px solid;
+    color: aliceblue; 
+    background-color: darkred;  
+}
+
+a {
+    color:rgb(157, 255, 0)
+}
+
+.Maps {
+    color:rgb(0, 72, 136)
+}
